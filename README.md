@@ -37,11 +37,11 @@
 
    **Usage**
 
-1. Start the proxy server:
+1. **Start the proxy server**:
    node server.js
-2. Run the client to test connections:
+2. **Run the client to test connections**:
    node client.js
-3. Modify configuration in config.js to change:
+3. **Modify configuration in config.js to change**:
 
    PORT – Port on which the proxy server runs
 
@@ -49,7 +49,7 @@ TARGET_URL – Default target URL for routing requests
 
   LOGGING – Enable or disable request logging
 
-  Configuration 🛠️
+  **Configuration** 🛠️
 
 All configurable settings are in config.js:
 
